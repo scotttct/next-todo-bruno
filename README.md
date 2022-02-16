@@ -1,3 +1,7 @@
+## Actknowledgements
+
+- [Bruno's tutorial: Next.js Tutorial youtube](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - Next JS Tutorials.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
