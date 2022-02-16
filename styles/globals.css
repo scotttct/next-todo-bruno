@@ -19,11 +19,18 @@ a {
 
 .back {
   background-color: #0e6655;
-  box-shadow: #138d75 2px 2px 0 0 ;
+  box-shadow: #138d75 1px 1px 0 0 ;
+}
+
+.foot {
+  
+  background-color: #0e6655;
+  box-shadow: #138d75 0 0 0 1px;
 }
 
 .container {
   background-color: #0e6655;
   margin-top:20px;
+  margin-bottom:20px;
   padding: 20px;
 }

@@ -1,7 +1,7 @@
 const footer = () => {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-dark back" >
+            <nav className="navbar navbar-expand-lg navbar-dark foot" >
                 <div className="container-xl">
                 <footer className="pt-2">
                     <p className="text-light">&copy;tomassetti.net 2022</p>

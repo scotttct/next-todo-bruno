@@ -1,13 +1,18 @@
 import React from 'react'
 import { Nav, Button } from 'react-bootstrap';
 import Link from 'next/link'
-
+import Image from 'next/image'
+import logo from "../public/favicon-32x32.png"
 export default function Navbar() {
   return (
     <Nav className="navbar navbar-expand-lg navbar-dark back">
   <div className="container-xl">
+    
+    <Image
+        src={logo}
+        alt="Logo" class="d-inline-block align-text-top"/>
     <Link href="/">
-      <a className="navbar-brand">Next-Bootstrap-Template</a>
+    <a  className="nav-link text-light">Todo</a>
     </Link>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07XL" aria-controls="navbarsExample07XL" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
