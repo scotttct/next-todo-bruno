@@ -31,13 +31,13 @@ export default function Navbar() {
           </Link>
         </li>
       </ul>
-      <ul className="navbar-nav px-3 text-end">
+      {/* <ul className="navbar-nav px-3 ">
         <li className="nav-item text-nowrap ">
           <Button className="nav-link" >
               Signup
           </Button>
         </li>
-      </ul>
+      </ul> */}
     </div>
   </div>
 </Nav>
